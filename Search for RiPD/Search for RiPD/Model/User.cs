@@ -19,6 +19,16 @@ namespace Search_for_RiPD
 {
     class User
     {
+
+        public User() { }
+
+        public User(string login, string email, string pass)
+        {
+            this.login = login;
+            this.pass = pass;
+            this.email = email;
+        }
+
         public int id { get; set; }
 
         private string login, pass, email;
@@ -40,14 +50,7 @@ namespace Search_for_RiPD
             get { return email; }
             set { email = value; }
         }
-        public User() { }
-
-        public User(string login, string email, string pass)
-        {
-            this.login = login;
-            this.pass = pass;
-            this.email = email;
-        }
+        
 
 
     }

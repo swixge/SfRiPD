@@ -55,7 +55,6 @@ namespace Search_for_RiPD
                 }
                 if (authUser != null) 
                 {
-                    MessageBox.Show("SO GOOD");
                     UserPageWindow userPageWindow = new UserPageWindow(textBoxLogin.Text);
                     userPageWindow.Show();
                     Hide();
@@ -63,7 +62,7 @@ namespace Search_for_RiPD
                 }
                 else
                 {
-                    MessageBox.Show("No CORECT login or pass");
+                    MessageBox.Show("Не коректний логін або пароль");
                 }
                     
             }
@@ -74,6 +73,11 @@ namespace Search_for_RiPD
             MainWindow mainWindow = new MainWindow();
             mainWindow.Show();
             Hide();
+        }
+
+        private void Window_Closed(object sender, EventArgs e)
+        {
+            Application.Current.Shutdown();
         }
     }
 }

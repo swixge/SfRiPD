@@ -14,6 +14,9 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Windows.Media.Animation;
+using System.Data.Entity.Infrastructure;
+using System.Data.Entity;
+
 
 namespace Search_for_RiPD
 {
@@ -30,16 +33,6 @@ namespace Search_for_RiPD
             InitializeComponent();
 
             bd = new ApplicationContext();
-
-
-            /*================================= ДЕрьмо для теста базы данных!=================================
-            List<User> users = bd.Users.ToList();
-             string str = "";
-             foreach (User user in users)
-             {
-                 str += "Login: " + user.Login + " | " + "Pass: " + user.Pass;
-                 example.Text = str;
-             }*/
         }
 
         private void Button_Reg_Click(object sender, RoutedEventArgs e)
@@ -80,14 +73,19 @@ namespace Search_for_RiPD
                 passBox_2.ToolTip = "";
                 passBox_2.Background = Brushes.Transparent;
 
-                
-                MessageBox.Show("SO GOOD");
+
+                if (bd.Users.Any(u => u.Login == login))
+                {
+                    MessageBox.Show("Такий користувач вже існує", "Помилка", MessageBoxButton.OK, MessageBoxImage.Error);
+                }
+                else { 
                 User user = new User(login, email, pass);
                 bd.Users.Add(user);
                 bd.SaveChanges();
                 AuthWindow authWindow = new AuthWindow();
                 authWindow.Show();
                 Hide();
+                }
             }
         }
 

@@ -1,5 +1,4 @@
 D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\Search for RiPD.csproj.AssemblyReference.cache
-D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\MainWindow.g.cs
 D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\App.g.cs
 D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\Search for RiPD_MarkupCompile.cache
 D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\Search for RiPD_MarkupCompile.lref
@@ -30,7 +29,6 @@ D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\bin\Debug\Microsoft.Xaml.Behavi
 D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\bin\Debug\Microsoft.Xaml.Behaviors.xml
 D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\bin\Debug\System.Data.SQLite.xml
 D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\App.baml
-D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\MainWindow.baml
 D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\Search for RiPD.g.resources
 D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\Search_for_RiPD.Properties.Resources.resources
 D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\Search for RiPD.csproj.GenerateResource.cache
@@ -38,9 +36,13 @@ D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\Search for RiPD.cspro
 D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\Search f.7730F123.Up2Date
 D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\Search for RiPD.exe
 D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\Search for RiPD.pdb
-D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\AuthWindow.g.cs
-D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\AuthWindow.baml
 D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\bin\Debug\MaterialDesignThemes.MahApps.dll
 D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\bin\Debug\MaterialDesignThemes.MahApps.pdb
-D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\UserPageWindow.g.cs
-D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\UserPageWindow.baml
+D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\View\AuthWindow.g.cs
+D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\View\MainWindow.g.cs
+D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\View\UserPageWindow.g.cs
+D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\View\AuthWindow.baml
+D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\View\MainWindow.baml
+D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\View\UserPageWindow.baml
+D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\View\ReportsWindow.g.cs
+D:\diplom\SfRiPD\Search for RiPD\Search for RiPD\obj\Debug\View\ReportsWindow.baml

@@ -1,0 +1,60 @@
+﻿<Window x:Class="Search_for_RiPD.UserPageWindow"
+        xmlns:materialDesign = "http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns = "http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x = "http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d = "http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc = "http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local = "clr-namespace:Search_for_RiPD"
+        mc:Ignorable = "d"
+        Title = "Search for RiPD" Height = "600" Width = "1000" WindowStartupLocation="CenterScreen" MinHeight="600" MinWidth="550" Closed="Window_Closed" WindowState="Maximized">
+    <Grid Background = "#ffdadada" >
+        <Border MinWidth = "500" Margin = "15" Background = "White" VerticalAlignment = "Center" Padding = "30" MaxWidth = "1550" CornerRadius = "20" >
+            <Border.Effect >
+                <DropShadowEffect BlurRadius = "30" Color = "LightGray" ShadowDepth = "0" />
+            </Border.Effect >
+            <StackPanel >
+                <StackPanel>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="ПОШУК ПОВТОРІВ" FontSize="30" FontWeight="Bold" Margin="0 0 0 20" />
+                        <Button Grid.Column="1" Content="Звіти" Click="Reports_Navigation_Button_Click"/>
+                    </Grid>
+                </StackPanel>
+                <TextBlock x:Name="User_Acc_View" FontSize = "15" FontWeight="Bold" Margin="0 0 0 20" />
+                <Button x:Name="Button_LoadFile" Content="Оберіть файли..." Click="Button_LoadFile_Click"/>
+                <ListView x:Name="lstFiles" Margin="0,20,0,0" ItemsSource="{Binding Files}" SelectionMode="Multiple">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Файли" DisplayMemberBinding="{Binding}"/>
+                        </GridView>
+                    </ListView.View>
+                    <ListView.ContextMenu>
+                        <ContextMenu>
+                            <MenuItem Header="Удалить" Click="MenuItem_Delete_Click"/>
+                        </ContextMenu>
+                    </ListView.ContextMenu>
+                </ListView>
+                <ComboBox x:Name="cmbProcessingMethod" 
+                            Margin="15,20,15,15"
+                            HorizontalAlignment="Stretch"
+                            VerticalAlignment="Bottom"
+                            SelectedIndex="0"
+                            SelectionChanged="cmbProcessingMethod_SelectionChanged">
+                    <ComboBoxItem Content="Хеш метод"/>
+                    <ComboBoxItem Content="Метод Кнута-Морриса-Пратта"/>
+                    <ComboBoxItem Content="LCS для всіх пар префіксів"/>
+                    <ComboBoxItem Content="Semi-local lcs з використанням липкого множення"/>
+                </ComboBox>
+                <StackPanel Orientation="Horizontal" Margin="15,0,15,15">
+                    <TextBlock Text="ПОРІГ СХОЖОСТІ" VerticalAlignment="Center" Margin="0,0,10,0"/>
+                    <TextBox x:Name="ThresholdTextBox" IsEnabled="False" Width="40"/>
+                </StackPanel>
+                <ListBox x:Name="lstReport" Margin="15" MaxHeight="400" MaxWidth="1500" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Auto"/>
+                <Button x:Name="Button_Analiz_files" Content="Проаналізувати файли" Margin="15,20,15,15" Cursor="Hand" Click="Button_Analiz_files_Click"/>
+            </StackPanel >
+        </Border >
+    </Grid >
+</Window >

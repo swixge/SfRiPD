@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "D:\\diplom\\SfRiPD\\Search for RiPD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59CAFEDB-84B3-4EA1-843F-2EC9F004BB95}|Search for RiPD\\Search for RiPD.csproj|d:\\diplom\\sfripd\\search for ripd\\search for ripd\\userpagewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{59CAFEDB-84B3-4EA1-843F-2EC9F004BB95}|Search for RiPD\\Search for RiPD.csproj|solutionrelative:search for ripd\\userpagewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{59CAFEDB-84B3-4EA1-843F-2EC9F004BB95}|Search for RiPD\\Search for RiPD.csproj|d:\\diplom\\sfripd\\search for ripd\\search for ripd\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59CAFEDB-84B3-4EA1-843F-2EC9F004BB95}|Search for RiPD\\Search for RiPD.csproj|solutionrelative:search for ripd\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59CAFEDB-84B3-4EA1-843F-2EC9F004BB95}|Search for RiPD\\Search for RiPD.csproj|d:\\diplom\\sfripd\\search for ripd\\search for ripd\\userpagewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59CAFEDB-84B3-4EA1-843F-2EC9F004BB95}|Search for RiPD\\Search for RiPD.csproj|solutionrelative:search for ripd\\userpagewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59CAFEDB-84B3-4EA1-843F-2EC9F004BB95}|Search for RiPD\\Search for RiPD.csproj|d:\\diplom\\sfripd\\search for ripd\\search for ripd\\view\\userpagewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59CAFEDB-84B3-4EA1-843F-2EC9F004BB95}|Search for RiPD\\Search for RiPD.csproj|solutionrelative:search for ripd\\view\\userpagewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59CAFEDB-84B3-4EA1-843F-2EC9F004BB95}|Search for RiPD\\Search for RiPD.csproj|D:\\diplom\\SfRiPD\\Search for RiPD\\search for ripd\\authwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{59CAFEDB-84B3-4EA1-843F-2EC9F004BB95}|Search for RiPD\\Search for RiPD.csproj|solutionrelative:search for ripd\\authwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{59CAFEDB-84B3-4EA1-843F-2EC9F004BB95}|Search for RiPD\\Search for RiPD.csproj|d:\\diplom\\sfripd\\search for ripd\\search for ripd\\view\\authwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59CAFEDB-84B3-4EA1-843F-2EC9F004BB95}|Search for RiPD\\Search for RiPD.csproj|solutionrelative:search for ripd\\view\\authwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59CAFEDB-84B3-4EA1-843F-2EC9F004BB95}|Search for RiPD\\Search for RiPD.csproj|D:\\diplom\\SfRiPD\\Search for RiPD\\search for ripd\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59CAFEDB-84B3-4EA1-843F-2EC9F004BB95}|Search for RiPD\\Search for RiPD.csproj|solutionrelative:search for ripd\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59CAFEDB-84B3-4EA1-843F-2EC9F004BB95}|Search for RiPD\\Search for RiPD.csproj|D:\\diplom\\SfRiPD\\Search for RiPD\\search for ripd\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{59CAFEDB-84B3-4EA1-843F-2EC9F004BB95}|Search for RiPD\\Search for RiPD.csproj|solutionrelative:search for ripd\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59CAFEDB-84B3-4EA1-843F-2EC9F004BB95}|Search for RiPD\\Search for RiPD.csproj|D:\\diplom\\SfRiPD\\Search for RiPD\\search for ripd\\authwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59CAFEDB-84B3-4EA1-843F-2EC9F004BB95}|Search for RiPD\\Search for RiPD.csproj|solutionrelative:search for ripd\\authwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59CAFEDB-84B3-4EA1-843F-2EC9F004BB95}|Search for RiPD\\Search for RiPD.csproj|d:\\diplom\\sfripd\\search for ripd\\search for ripd\\view\\reportswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59CAFEDB-84B3-4EA1-843F-2EC9F004BB95}|Search for RiPD\\Search for RiPD.csproj|solutionrelative:search for ripd\\view\\reportswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,81 +26,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\diplom\\SfRiPD\\Search for RiPD\\Search for RiPD\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Search for RiPD\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\diplom\\SfRiPD\\Search for RiPD\\Search for RiPD\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Search for RiPD\\MainWindow.xaml.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAQwCQAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T08:54:20.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\diplom\\SfRiPD\\Search for RiPD\\Search for RiPD\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Search for RiPD\\MainWindow.xaml",
-              "ToolTip": "D:\\diplom\\SfRiPD\\Search for RiPD\\Search for RiPD\\MainWindow.xaml",
-              "RelativeToolTip": "Search for RiPD\\MainWindow.xaml",
+              "Title": "ReportsWindow.xaml",
+              "DocumentMoniker": "D:\\diplom\\SfRiPD\\Search for RiPD\\Search for RiPD\\View\\ReportsWindow.xaml",
+              "RelativeDocumentMoniker": "Search for RiPD\\View\\ReportsWindow.xaml",
+              "ToolTip": "D:\\diplom\\SfRiPD\\Search for RiPD\\Search for RiPD\\View\\ReportsWindow.xaml",
+              "RelativeToolTip": "Search for RiPD\\View\\ReportsWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-21T08:54:22.184Z",
+              "WhenOpened": "2024-05-11T10:11:04.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AuthWindow.xaml",
-              "DocumentMoniker": "D:\\diplom\\SfRiPD\\Search for RiPD\\Search for RiPD\\AuthWindow.xaml",
-              "RelativeDocumentMoniker": "Search for RiPD\\AuthWindow.xaml",
-              "ToolTip": "D:\\diplom\\SfRiPD\\Search for RiPD\\Search for RiPD\\AuthWindow.xaml",
-              "RelativeToolTip": "Search for RiPD\\AuthWindow.xaml",
+              "DocumentMoniker": "D:\\diplom\\SfRiPD\\Search for RiPD\\Search for RiPD\\View\\AuthWindow.xaml",
+              "RelativeDocumentMoniker": "Search for RiPD\\View\\AuthWindow.xaml",
+              "ToolTip": "D:\\diplom\\SfRiPD\\Search for RiPD\\Search for RiPD\\View\\AuthWindow.xaml",
+              "RelativeToolTip": "Search for RiPD\\View\\AuthWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-24T19:53:52.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthWindow.xaml.cs",
-              "DocumentMoniker": "D:\\diplom\\SfRiPD\\Search for RiPD\\Search for RiPD\\AuthWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Search for RiPD\\AuthWindow.xaml.cs",
-              "ToolTip": "D:\\diplom\\SfRiPD\\Search for RiPD\\Search for RiPD\\AuthWindow.xaml.cs",
-              "RelativeToolTip": "Search for RiPD\\AuthWindow.xaml.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAawDoAAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T19:58:36.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserPageWindow.xaml",
-              "DocumentMoniker": "D:\\diplom\\SfRiPD\\Search for RiPD\\Search for RiPD\\UserPageWindow.xaml",
-              "RelativeDocumentMoniker": "Search for RiPD\\UserPageWindow.xaml",
-              "ToolTip": "D:\\diplom\\SfRiPD\\Search for RiPD\\Search for RiPD\\UserPageWindow.xaml",
-              "RelativeToolTip": "Search for RiPD\\UserPageWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-25T18:54:14.602Z",
+              "WhenOpened": "2024-05-11T10:11:02.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserPageWindow.xaml.cs",
-              "DocumentMoniker": "D:\\diplom\\SfRiPD\\Search for RiPD\\Search for RiPD\\UserPageWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Search for RiPD\\UserPageWindow.xaml.cs",
-              "ToolTip": "D:\\diplom\\SfRiPD\\Search for RiPD\\Search for RiPD\\UserPageWindow.xaml.cs",
-              "RelativeToolTip": "Search for RiPD\\UserPageWindow.xaml.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAuwCQAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T19:38:27.598Z",
+              "Title": "UserPageWindow.xaml",
+              "DocumentMoniker": "D:\\diplom\\SfRiPD\\Search for RiPD\\Search for RiPD\\View\\UserPageWindow.xaml",
+              "RelativeDocumentMoniker": "Search for RiPD\\View\\UserPageWindow.xaml",
+              "ToolTip": "D:\\diplom\\SfRiPD\\Search for RiPD\\Search for RiPD\\View\\UserPageWindow.xaml",
+              "RelativeToolTip": "Search for RiPD\\View\\UserPageWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T09:08:28.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\diplom\\SfRiPD\\Search for RiPD\\Search for RiPD\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Search for RiPD\\View\\MainWindow.xaml",
+              "ToolTip": "D:\\diplom\\SfRiPD\\Search for RiPD\\Search for RiPD\\View\\MainWindow.xaml",
+              "RelativeToolTip": "Search for RiPD\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T09:06:15.047Z",
               "EditorCaption": ""
             }
           ]

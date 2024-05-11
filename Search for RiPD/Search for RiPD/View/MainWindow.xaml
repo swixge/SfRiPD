@@ -6,13 +6,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Search_for_RiPD"
         mc:Ignorable="d"
-        Title="Search for RiPD" Height="600" Width="1000" WindowStartupLocation="CenterScreen" MinHeight="600" MinWidth="550">
+        Title="Search for RiPD" Height="600" Width="1000" WindowStartupLocation="CenterScreen" MinHeight="600" MinWidth="550" WindowState="Maximized">
     <Window.Triggers>
         <EventTrigger RoutedEvent="Loaded">
             <EventTrigger.Actions>
                 <BeginStoryboard>
                     <Storyboard TargetProperty="Width" TargetName="RegButton">
-                        <DoubleAnimation From="0" To="500" Duration="0:0:1"/>
+                        <DoubleAnimation From="0" To="500" Duration="0:0:0.4"/>
                     </Storyboard>
                 </BeginStoryboard>
             </EventTrigger.Actions>
@@ -24,8 +24,8 @@
                 <DropShadowEffect BlurRadius="30" Color="LightGray" ShadowDepth="0"/>
             </Border.Effect>
             <StackPanel>
-                <TextBlock Text="Hello vsem" FontSize="30" FontWeight="Bold" Margin="0 0 0 20"/>
-                <!--<TextBlock x:Name="example" FontWeight="Bold" Margin="0 0 0 20"/>-->
+                <TextBlock Text="Реєстрація" FontSize="30" FontWeight="Bold" Margin="0 0 0 20"/>
+                
                 <Grid Margin="0 0 0 20">
                     <Button HorizontalAlignment="Left" Content="Реєстрація"/>
                     <Button HorizontalAlignment="Right" Click="Button_Window_Auth_Click" Content="Авторизація" Style="{StaticResource MaterialDesignFlatButton}"/>
